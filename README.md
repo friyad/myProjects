@@ -20,26 +20,26 @@ https://mybets0.netlify.app/<br/>
 <br/>
 #Taekwondo Club<br/>
 https://github.com/friyad/taekwondo-club<br/>
-https://taekwondoclub.netlify.app/
-
+https://taekwondoclub.netlify.app/<br/>
+<br/>
 #Meta Wolves Club (NFT project) <br/>
-https://github.com/friyad/meta-wolves-club
-https://thecryptowolfclub.web.app/
+https://github.com/friyad/meta-wolves-club<br/>
+https://thecryptowolfclub.web.app/<br/>
+<br/>
+#The Quick Start Workshop<br/>
+https://github.com/friyad/The-Quick-Start-Workshop<br/>
+https://thequickstartworkshop.web.app/<br/>
+<br/>
+#Hotel Royal<br/>
+https://github.com/friyad/Hotel-Royal<br/>
+https://burj-al-arab-1f689.web.app/<br/>
+<br/><br/><br/><br/><br/><br/>
 
-The Quick Start Workshop
-https://github.com/friyad/The-Quick-Start-Workshop
-https://thequickstartworkshop.web.app/
-
-Hotel Royal
-https://github.com/friyad/Hotel-Royal
-https://burj-al-arab-1f689.web.app/
-
-
-
-Market Jungle
-https://github.com/friyad/Market-Jungle
-https://marketjangel.netlify.app/
-
-Bargain Max
-https://github.com/friyad/Bargain-Max
-https://bargainmax.netlify.app/
+#Using Only JavaScript, HTML, CSS
+#Market Jungle<br/>
+https://github.com/friyad/Market-Jungle<br/>
+https://marketjangel.netlify.app/<br/>
+<br/>
+#Bargain Max<br/>
+https://github.com/friyad/Bargain-Max<br/>
+https://bargainmax.netlify.app/<br/>
